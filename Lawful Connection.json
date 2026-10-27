@@ -71,6 +71,134 @@
         "name": "Pixel Tropical Island Seascape2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel Art Nature Tileset Collection.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Art Nature Tileset Collection.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "rumput.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rumput.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "rumput2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "rumput2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "fruit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fruit.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "play.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "play.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "quit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "quit.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-04.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -84,8 +212,8 @@
     {
       "b": 255,
       "disableInputWhenNotFocused": true,
-      "mangledName": "Untitled_32scene",
-      "name": "Untitled scene",
+      "mangledName": "opening",
+      "name": "opening",
       "r": 247,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
@@ -103,7 +231,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.39251611754882226,
+        "zoomFactor": 0.463311182451398,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -115,15 +243,117 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 849,
+          "height": 758,
           "keepRatio": true,
           "layer": "",
           "name": "background",
           "persistentUuid": "ebd0c55f-bdda-461a-8669-66f53caace08",
-          "width": 1505,
-          "x": -121,
-          "y": -60,
+          "width": 1301,
+          "x": -14,
+          "y": -24,
           "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 5,
+          "customSize": true,
+          "depth": 2,
+          "height": 78,
+          "keepRatio": true,
+          "layer": "",
+          "name": "elang",
+          "persistentUuid": "b59e5888-ad93-433d-bfa1-0997d2a5b113",
+          "width": 78,
+          "x": 1008,
+          "y": 96,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 428,
+          "keepRatio": true,
+          "layer": "",
+          "name": "rumput",
+          "persistentUuid": "004b01eb-0c08-4a9e-abcd-da196b706e5f",
+          "width": 1292,
+          "x": -13,
+          "y": 304,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 207,
+          "keepRatio": true,
+          "layer": "",
+          "name": "fruit",
+          "persistentUuid": "9eddb70a-e12d-4996-992e-71121e8967a5",
+          "width": 512,
+          "x": 424,
+          "y": 110,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 302,
+          "keepRatio": true,
+          "layer": "",
+          "name": "play",
+          "persistentUuid": "005e4779-2319-472b-9363-4234db90e4eb",
+          "width": 441,
+          "x": 451,
+          "y": 192,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 276,
+          "keepRatio": true,
+          "layer": "",
+          "name": "quit",
+          "persistentUuid": "ce0d9f03-72cf-4715-80bc-b9d3bc617edd",
+          "width": 367,
+          "x": 486,
+          "y": 375,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 111,
+          "keepRatio": true,
+          "layer": "",
+          "name": "musang",
+          "persistentUuid": "7c05f0da-6978-4558-ae87-ac85dfab92f9",
+          "width": 114,
+          "x": 63,
+          "y": 240,
+          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -190,6 +420,660 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "elang",
+          "persistentUuid": "9704ddf6-9065-48d1-89eb-e95cae79e4ed",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.16,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "rumput",
+          "persistentUuid": "455ebb2d-8dce-4fdc-80ce-b218a74e1989",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "rumput2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 42
+                          },
+                          {
+                            "x": 2000,
+                            "y": 42
+                          },
+                          {
+                            "x": 2000,
+                            "y": 723
+                          },
+                          {
+                            "x": 0,
+                            "y": 723
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fruit",
+          "persistentUuid": "35d5135d-1a90-4209-b103-32418138aeba",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "fruit.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 22,
+                            "y": 95
+                          },
+                          {
+                            "x": 906,
+                            "y": 95
+                          },
+                          {
+                            "x": 906,
+                            "y": 375
+                          },
+                          {
+                            "x": 22,
+                            "y": 375
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "play",
+          "persistentUuid": "fc869f0e-3ab5-4e43-b259-0b90f4592a53",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "play.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 111,
+                            "y": 98
+                          },
+                          {
+                            "x": 576,
+                            "y": 98
+                          },
+                          {
+                            "x": 576,
+                            "y": 418
+                          },
+                          {
+                            "x": 111,
+                            "y": 418
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "quit",
+          "persistentUuid": "2175906e-9424-4611-b4f7-e08ed1a6b0d8",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "quit.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 56,
+                            "y": 60
+                          },
+                          {
+                            "x": 521,
+                            "y": 60
+                          },
+                          {
+                            "x": 521,
+                            "y": 380
+                          },
+                          {
+                            "x": 56,
+                            "y": 380
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "musang",
+          "persistentUuid": "f2df5f40-8f54-42ed-a01b-613fef122998",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -197,6 +1081,24 @@
         "children": [
           {
             "objectName": "background"
+          },
+          {
+            "objectName": "elang"
+          },
+          {
+            "objectName": "fruit"
+          },
+          {
+            "objectName": "play"
+          },
+          {
+            "objectName": "quit"
+          },
+          {
+            "objectName": "rumput"
+          },
+          {
+            "objectName": "musang"
           }
         ]
       },
@@ -294,6 +1196,286 @@
           "type": "ScalableCapability::ScalableBehavior"
         }
       ]
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "permainan",
+      "name": "permainan",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "winner",
+      "name": "winner",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {},
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
+    },
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "game_32over",
+      "name": "game over",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {},
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT"
+      },
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
