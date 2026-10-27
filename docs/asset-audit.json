@@ -1,0 +1,475 @@
+{
+  "resourceCountBefore": 219,
+  "resourceCountAfter": 143,
+  "removedUnusedRegistrations": [
+    {
+      "name": "Pixel Tropical Island Seascape2.png",
+      "file": "Pixel Tropical Island Seascape2.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "assets/NewSprite.png",
+      "file": "assets/NewSprite.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "assets/NewSprite2.png",
+      "file": "assets/NewSprite2.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "assets/NewSprite3.png",
+      "file": "assets/NewSprite3.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "assets/NewSprite4.png",
+      "file": "assets/NewSprite4.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "assets/NewSprite5.png",
+      "file": "assets/NewSprite5.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Pixel Art Nature Tileset Collection.png",
+      "file": "Pixel Art Nature Tileset Collection.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "rumput.png",
+      "file": "rumput.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "rumput2.png",
+      "file": "rumput2.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "fruit.png",
+      "file": "fruit.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "play.png",
+      "file": "play.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "quit.png",
+      "file": "quit.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-01.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-01.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-01.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-01.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-02.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-02.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-03.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-03.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-04.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-04.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "Pixel Tropical Island Seascape3.png",
+      "file": "Pixel Tropical Island Seascape3.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "assets/NewTiledSprite.png",
+      "file": "assets/NewTiledSprite.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "world_tileset.png",
+      "file": "world_tileset.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Tilemap_terrain.png",
+      "file": "assets/Tilemap_terrain.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "world_tileset2.png",
+      "file": "world_tileset2.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "assets/NewSprite6.png",
+      "file": "assets/NewSprite6.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "assets/NewSprite7.png",
+      "file": "assets/NewSprite7.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "assets/NewSprite8.png",
+      "file": "assets/NewSprite8.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-1.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-1.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-2.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-2.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-3.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-3.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-4.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-4.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-5.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-5.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-6.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-6.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-1.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-1.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-2.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-2.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-3.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-3.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-4.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-4.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-01.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-01.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-02.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-02.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-03.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-03.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-04.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-04.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-05.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-05.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-06.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-06.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-01.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-01.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-02.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-02.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-02.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-02.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-03.png",
+      "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-03.png",
+      "used": false,
+      "exists": false
+    },
+    {
+      "name": "Teks paragraf Anda.png",
+      "file": "Teks paragraf Anda.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "quit",
+      "file": "assets/quit.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "quit2",
+      "file": "assets/quit2.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "quit3",
+      "file": "assets/quit3.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "play",
+      "file": "assets/play.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "NewTiledSprite",
+      "file": "assets/NewTiledSprite2.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "NewTiledSprite2",
+      "file": "assets/NewTiledSprite3.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "PlayerRun1",
+      "file": "r1.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "PermainanBackground",
+      "file": "assets/permainan-background.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Player2",
+      "file": "assets/Player2.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Player3",
+      "file": "assets/Player3.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Player4",
+      "file": "assets/Player4.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Player5",
+      "file": "assets/Player5.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Player6",
+      "file": "assets/Player6.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Player7",
+      "file": "assets/Player7.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Player8",
+      "file": "assets/Player8.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run2",
+      "file": "assets/Run2.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run3",
+      "file": "assets/Run3.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run4",
+      "file": "assets/Run4.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run5",
+      "file": "assets/Run5.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run6",
+      "file": "assets/Run6.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run7",
+      "file": "assets/Run7.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run8",
+      "file": "assets/Run8.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run9",
+      "file": "assets/Run9.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run10",
+      "file": "assets/Run10.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run11",
+      "file": "assets/Run11.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run12",
+      "file": "assets/Run12.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run13",
+      "file": "assets/Run13.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run14",
+      "file": "assets/Run14.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run15",
+      "file": "assets/Run15.png",
+      "used": false,
+      "exists": true
+    },
+    {
+      "name": "Run16",
+      "file": "assets/Run16.png",
+      "used": false,
+      "exists": true
+    }
+  ],
+  "updatedFilePaths": [
+    {
+      "name": "Player",
+      "before": "assets/Player.png",
+      "after": "assets/legacy/imports/Player.png"
+    },
+    {
+      "name": "Run",
+      "before": "assets/Run.png",
+      "after": "assets/legacy/imports/Run.png"
+    }
+  ],
+  "legacyArtwork": "Preserved in assets/legacy; no image files deleted."
+}

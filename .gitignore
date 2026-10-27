@@ -1,0 +1,28 @@
+# Local recovery copies and one-off development output
+/.local/
+/tmp/
+/output/
+/previews/
+*.autosave
+*.bak
+*.bak-*
+*.tmp
+*.log
+
+# Local Codex state; shared project documentation and scripts remain versioned
+/.codex/
+/.cache/
+
+# Dependencies and generated game exports
+node_modules/
+/exports/
+/dist/
+/build/
+
+# Machine-specific files and local credentials
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
