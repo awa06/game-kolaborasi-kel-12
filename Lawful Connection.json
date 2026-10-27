@@ -199,6 +199,242 @@
         "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-04.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Pixel Tropical Island Seascape3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Tropical Island Seascape3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewTiledSprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "world_tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world_tileset.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Tilemap_terrain.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tilemap_terrain.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney New Platformer Pack 1.0/Tilemap/9b627f6dd19701b59e1ffc1310bce631b2c8b757264991288ffb1143f8e39a8d_Tilemap_terrain.png",
+          "name": "Tilemap_terrain.png"
+        }
+      },
+      {
+        "file": "world_tileset2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "world_tileset2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/NewSprite8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-04.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-05.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-05.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-06.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-06.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-01.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-02.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-03.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Teks paragraf Anda.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Teks paragraf Anda.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -294,30 +530,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 207,
-          "keepRatio": true,
-          "layer": "",
-          "name": "fruit",
-          "persistentUuid": "9eddb70a-e12d-4996-992e-71121e8967a5",
-          "width": 512,
-          "x": 424,
-          "y": 110,
-          "zOrder": 4,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 302,
           "keepRatio": true,
           "layer": "",
           "name": "play",
           "persistentUuid": "005e4779-2319-472b-9363-4234db90e4eb",
           "width": 441,
-          "x": 451,
+          "x": 418,
           "y": 192,
           "zOrder": 5,
           "numberProperties": [],
@@ -334,7 +553,7 @@
           "name": "quit",
           "persistentUuid": "ce0d9f03-72cf-4715-80bc-b9d3bc617edd",
           "width": 367,
-          "x": 486,
+          "x": 453,
           "y": 375,
           "zOrder": 4,
           "numberProperties": [],
@@ -354,6 +573,23 @@
           "x": 63,
           "y": 240,
           "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 243,
+          "keepRatio": true,
+          "layer": "",
+          "name": "hunter",
+          "persistentUuid": "37357121-36c8-47ae-b371-d693fcc105c6",
+          "width": 590,
+          "x": 381,
+          "y": 82,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1074,6 +1310,67 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "hunter",
+          "persistentUuid": "73b3a239-5943-4527-858f-4bddb8cb5b9b",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Teks paragraf Anda.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 28,
+                            "y": 108
+                          },
+                          {
+                            "x": 1042,
+                            "y": 108
+                          },
+                          {
+                            "x": 1042,
+                            "y": 417
+                          },
+                          {
+                            "x": 28,
+                            "y": 417
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -1099,6 +1396,9 @@
           },
           {
             "objectName": "musang"
+          },
+          {
+            "objectName": "hunter"
           }
         ]
       },
@@ -1219,17 +1519,1487 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.4633111824513977,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 765,
+          "keepRatio": true,
+          "layer": "",
+          "name": "background",
+          "persistentUuid": "e093d0be-3a23-4f05-b4d8-9bd32adef43e",
+          "width": 1353,
+          "x": -41,
+          "y": -28,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "lantai",
+          "persistentUuid": "0be3e794-651f-4f49-86fa-f1113a29c906",
+          "width": 0,
+          "x": -6,
+          "y": 670,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":28,\"dimY\":3,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22],[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22],[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22]]}]}"
+            }
+          ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "lantai",
+          "persistentUuid": "11bb004f-eb6d-4831-b0e1-631734970a10",
+          "width": 0,
+          "x": 424,
+          "y": 509,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [
+            {
+              "name": "tilemap",
+              "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":28,\"dimY\":3,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22],[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22],[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22]]}]}"
+            }
+          ],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background",
+          "persistentUuid": "35948712-61ad-4088-b69d-fa0d3fb4a2be",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Pixel Tropical Island Seascape3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1672,
+                            "y": 0
+                          },
+                          {
+                            "x": 1672,
+                            "y": 941
+                          },
+                          {
+                            "x": 0,
+                            "y": 941
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "lantai",
+          "persistentUuid": "08581496-eadb-4e28-9901-4ab02cccc2c7",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "world_tileset2.png",
+            "rowCount": 16,
+            "columnCount": 16,
+            "tileSize": 16,
+            "tilesWithHitBox": "33,0,14,1,2,4,3,5,6,7,8,9,10,11,27,26,25,24,23,22,21,19,18,17,16,32,48,50,49,53,69,54,70,55,71,56,57,41,43,42,65,64,80,81,97,85,86,87,88,72,73,120,104,103,102,101,117,118,132,133,134,135,136"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "elang",
+          "persistentUuid": "7b1cc10d-5d3d-4416-bc1c-2a1eb5afa117",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "elang",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/NewSprite8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 0
+                          },
+                          {
+                            "x": 35,
+                            "y": 38
+                          },
+                          {
+                            "x": 3,
+                            "y": 38
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "binatang_1",
+          "persistentUuid": "38bdd4a9-b24b-4a01-8dc1-1a5ea44b79db",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 27
+                          },
+                          {
+                            "x": 1,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 27
+                          },
+                          {
+                            "x": 1,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 27
+                          },
+                          {
+                            "x": 1,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 27
+                          },
+                          {
+                            "x": 1,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 27
+                          },
+                          {
+                            "x": 1,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Opossum/opossum/opossum-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 2
+                          },
+                          {
+                            "x": 29,
+                            "y": 27
+                          },
+                          {
+                            "x": 1,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "binatang2",
+          "persistentUuid": "ad0e96eb-1327-40b2-a1a3-8067f6b7c431",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 27
+                          },
+                          {
+                            "x": 4,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 27
+                          },
+                          {
+                            "x": 4,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 27
+                          },
+                          {
+                            "x": 4,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/frog/Sprites/idle/frog-idle-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 30,
+                            "y": 27
+                          },
+                          {
+                            "x": 4,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "musang",
+          "persistentUuid": "8ff0b7b3-75e2-43bc-9a9f-fe655a9cb612",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/idle/sprites/f-04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-04.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-05.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/run/sprites/f-06.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "cruch",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/jump/sprites/f-02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-01.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-02.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "../game-kolaborasi-kel-12-main/Characters/Foxy/crouch/sprites/f-03.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 10
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "background"
+          },
+          {
+            "objectName": "lantai"
+          },
+          {
+            "objectName": "elang"
+          },
+          {
+            "objectName": "binatang_1"
+          },
+          {
+            "objectName": "binatang2"
+          },
+          {
+            "objectName": "musang"
+          }
+        ]
       },
       "events": [],
       "layers": [
@@ -1299,7 +3069,36 @@
           ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "TileMap",
+          "type": "TileMap::TileMapBehavior"
+        }
+      ]
     },
     {
       "b": 255,
