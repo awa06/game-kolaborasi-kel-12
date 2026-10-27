@@ -1,0 +1,160 @@
+// GDevelop JavaScript event: runs after the native Platformer controls and animation events.
+// Physics stay in Platformer/Platform behaviors. This block handles game rules and presentation.
+const objects = name => runtimeScene.getObjects(name);
+const player = objects('Player')[0];
+if (!player) return;
+if(runtimeScene.__animalUI?.modal || runtimeScene.__animalUI?.transitioning) return;
+const input = runtimeScene.getGame().getInputManager();
+const move = player.getBehavior('Platformer');
+const dt = Math.min(runtimeScene.getTimeManager().getElapsedTime() / 1000, 0.08);
+const hit = (a,b) => gdjs.RuntimeObject.collisionTest(a,b,false);
+const variable = (object,name) => object.getVariables().get(name);
+const setText = (name,text) => {const o=objects(name)[0];if(o)o.setString(text);};
+const animate = (object,name) => {if(object.getAnimationName()!==name)object.setAnimationName(name);};
+let game = runtimeScene.__islandGame;
+if (!game || runtimeScene.getTimeManager().isFirstFrame()) {
+  game = runtimeScene.__islandGame = {
+    time:0,health:3,lives:3,ammo:20,coins:0,score:0,key:false,
+    state:'playing',facing:1,shotAt:-10,hurtUntil:0,invincibleUntil:0,
+    deathAt:0,checkpointX:96,checkpointY:480,checkpointActive:false,
+    message:'Find the brass key, then reach the exit.',messageUntil:5,
+    wasOnFloor:false,landUntil:0,cameraX:640,totalCoins:objects('Coin').length
+  };
+  for(const crab of objects('Crab')) {
+    crab.__patrol = {left:crab.getX()-90,right:crab.getX()+90,direction:-1,hp:2};
+  }
+  for(const chest of objects('Chest')){chest.__opened=false;chest.setAnimationName('Closed');}
+  for(const flag of objects('Checkpoint'))flag.setColor('255;255;255');
+  player.activateBehavior('Platformer',true);player.setOpacity(255);
+}
+game.time += dt;
+const notice=(text,seconds=3)=>{game.message=text;game.messageUntil=game.time+seconds;};
+function effect(name,x,y,w=48,h=48,life=.15){
+  const o=runtimeScene.createObject(name);if(!o)return;
+  o.setPosition(x,y);o.setWidth(w);o.setHeight(h);o.setZOrder(20);o.__ttl=life;
+}
+function killCrab(crab){effect('Impact',crab.getX(),crab.getY(),80,80,.18);crab.deleteFromScene(runtimeScene);game.score+=50;}
+function die(){
+  if(game.state!=='playing')return;
+  game.state='dying';game.lives--;game.deathAt=game.time;
+  move.setCurrentSpeed(0);move.setCurrentFallSpeed(0);
+  player.activateBehavior('Platformer',false);player.setOpacity(255);
+  animate(player,'Death');
+}
+function damage(amount){
+  if(game.state!=='playing'||game.time<game.invincibleUntil)return;
+  game.health=Math.max(0,game.health-amount);game.invincibleUntil=game.time+1.3;
+  game.hurtUntil=game.time+.42;
+  move.setCurrentSpeed(-game.facing*180);
+  if(game.health===0)die();
+}
+if(game.state==='playing'){
+  const speed=move.getCurrentSpeed();
+  if(Math.abs(speed)>5)game.facing=speed<0?-1:1;
+  player.flipX(game.facing<0);
+  const onFloor=move.isOnFloor();
+  if(onFloor&&!game.wasOnFloor)game.landUntil=game.time+.12;
+  game.wasOnFloor=onFloor;
+  // The native animation group supplies Idle / Run / Jump / Fall.
+  // These short actions temporarily take priority over locomotion.
+  if(game.time<game.hurtUntil)animate(player,'Hurt');
+  else if(game.time-game.shotAt<.50)animate(player,'Shoot');
+  else if(game.time<game.landUntil)animate(player,'Land');
+  player.setOpacity(game.time<game.invincibleUntil?(Math.floor(game.time*12)%2?110:255):255);
+  // Hold J or X to shoot. A cooldown and finite ammunition prevent unlimited fire.
+  if((input.isKeyPressed(74)||input.isKeyPressed(88))&&game.time-game.shotAt>=.52&&game.ammo>0&&game.time>=game.hurtUntil){
+    game.shotAt=game.time;game.ammo--;animate(player,'Shoot');player.setAnimationFrame(0);
+    const bullet=runtimeScene.createObject('Bullet');
+    const handX=player.getX()+(game.facing>0?92:22);
+    bullet.setPosition(handX,player.getY()+62);bullet.setWidth(30);bullet.setHeight(12);
+    bullet.setZOrder(12);bullet.flipX(game.facing<0);bullet.__velocity=game.facing*780;bullet.__ttl=1.5;
+    effect('Muzzle',handX-10,player.getY()+46,40,36,.09);
+  }
+  // Crabs use the same Platformer engine for gravity and ground contact.
+  for(const crab of objects('Crab')){
+    const patrol=crab.__patrol;if(!patrol)continue;
+    if(crab.getX()<=patrol.left)patrol.direction=1;
+    if(crab.getX()>=patrol.right)patrol.direction=-1;
+    const behavior=crab.getBehavior('Platformer');
+    if(patrol.direction<0)behavior.simulateLeftKey();else behavior.simulateRightKey();
+    crab.flipX(patrol.direction<0);
+    if(hit(player,crab)){
+      if(move.isFalling()&&player.getY()+112<crab.getY()+58){killCrab(crab);move.setCurrentFallSpeed(-380);}
+      else damage(1);
+    }
+  }
+  for(const bullet of objects('Bullet')){
+    bullet.setX(bullet.getX()+bullet.__velocity*dt);bullet.__ttl-=dt;
+    let destroyed=bullet.__ttl<=0;
+    for(const crab of objects('Crab'))if(!destroyed&&hit(bullet,crab)){
+      crab.__patrol.hp--;effect('Impact',bullet.getX(),bullet.getY()-12,36,36,.12);
+      if(crab.__patrol.hp<=0)killCrab(crab);destroyed=true;
+    }
+    for(const terrain of [...objects('Ground'),...objects('Ledge')])if(!destroyed&&hit(bullet,terrain))destroyed=true;
+    if(destroyed)bullet.deleteFromScene(runtimeScene);
+  }
+  for(const coin of objects('Coin'))if(hit(player,coin)){
+    game.coins++;game.score+=10;effect('Spark',coin.getX(),coin.getY(),36,36,.16);coin.deleteFromScene(runtimeScene);
+  }
+  for(const supply of objects('Ammo'))if(hit(player,supply)){
+    game.ammo=Math.min(40,game.ammo+8);supply.deleteFromScene(runtimeScene);notice('+8 ammunition');
+  }
+  for(const heart of objects('HealthPickup'))if(game.health<3&&hit(player,heart)){
+    game.health=Math.min(3,game.health+1);heart.deleteFromScene(runtimeScene);notice('Health restored');
+  }
+  for(const key of objects('Key'))if(hit(player,key)){
+    game.key=true;game.score+=50;key.deleteFromScene(runtimeScene);notice('Key found! Reach the door at the far right.',5);
+  }
+  const flag=objects('Checkpoint')[0];
+  if(flag&&!game.checkpointActive&&hit(player,flag)){
+    game.checkpointActive=true;game.checkpointX=1720;game.checkpointY=480;game.health=3;
+    flag.setColor('140;255;170');notice('Checkpoint saved. Health restored.',4);
+  }
+  for(const chest of objects('Chest'))if(!chest.__opened&&hit(player,chest)){
+    if(game.key){chest.__opened=true;animate(chest,'Open');game.score+=100;game.ammo=Math.min(40,game.ammo+8);notice('Treasure found! +100 score and +8 ammo');}
+    else notice('This chest needs the brass key.',1);
+  }
+  const exit=objects('ExitDoor')[0];
+  if(exit&&hit(player,exit)){
+    if(game.key){game.state='won';move.setCurrentSpeed(0);player.activateBehavior('Platformer',false);animate(player,'Idle');}
+    else notice('Find the brass key on the upper platform.',2);
+  }
+  if(player.getY()>900){game.health=0;die();}
+  player.setX(Math.max(-35,Math.min(4000,player.getX())));
+}
+if(game.state==='dying'){
+  animate(player,'Death');
+  if(game.time-game.deathAt>1){
+    if(game.lives<=0)game.state='gameover';
+    else {
+      game.state='playing';game.health=3;game.ammo=Math.max(8,game.ammo);
+      player.setPosition(game.checkpointX,game.checkpointY);
+      player.activateBehavior('Platformer',true);move.setCurrentSpeed(0);move.setCurrentFallSpeed(0);
+      game.invincibleUntil=game.time+1.5;game.hurtUntil=0;game.landUntil=0;game.shotAt=-10;
+      animate(player,'Idle');notice('Try again! '+game.lives+' lives remaining.');
+    }
+  }
+}
+// Remove transient visual effects. Bullets are handled separately above.
+for(const name of ['Muzzle','Impact','Spark'])for(const o of objects(name)){
+  o.__ttl-=dt;if(o.__ttl<=0)o.deleteFromScene(runtimeScene);
+}
+if(game.state!=='playing')for(const crab of objects('Crab'))crab.getBehavior('Platformer').setCurrentSpeed(0);
+const targetX=Math.max(640,Math.min(3456,player.getX()+64));
+game.cameraX+=(targetX-game.cameraX)*(1-Math.exp(-dt*8));
+runtimeScene.getLayer('').setCameraX(game.cameraX);runtimeScene.getLayer('').setCameraY(360);
+for(const name of ['Background','HUD']){runtimeScene.getLayer(name).setCameraX(640);runtimeScene.getLayer(name).setCameraY(360);}
+for(let i=0;i<objects('HUDHeart').length;i++)animate(objects('HUDHeart')[i],i<game.health?'Full':'Empty');
+setText('HUDMessage',game.time<game.messageUntil?game.message:'');
+// Save the completed run, then show the dedicated ending screen.
+if(game.state==='won'||game.state==='gameover'){
+ const global=runtimeScene.getGame().getVariables();
+ for(const [name,value]of Object.entries({AHLastScore:game.score,AHLastCoins:game.coins,AHLastTotalCoins:game.totalCoins,AHLastLives:game.lives,AHLastAmmo:game.ammo}))global.get(name).setNumber(value);
+ runtimeScene.getTimeManager().setTimeScale(1);
+ gdjs.evtTools.runtimeScene.replaceScene(runtimeScene,game.state==='won'?'winner':'game over',false);
+ return;
+}
+const animationOverride=game.state!=='playing'?'Locked':game.time<game.hurtUntil?'Hurt':game.time-game.shotAt<.50?'Shoot':game.time<game.landUntil?'Land':'';
+for(const [name,value]of Object.entries({Health:game.health,Lives:game.lives,Ammo:game.ammo,Coins:game.coins,Score:game.score,HasKey:game.key,CheckpointActive:game.checkpointActive,GameState:game.state,AnimationOverride:animationOverride})){
+ const v=runtimeScene.getVariables().get(name);if(typeof value==='number')v.setNumber(value);else if(typeof value==='boolean')v.setBoolean(value);else v.setString(value);
+}

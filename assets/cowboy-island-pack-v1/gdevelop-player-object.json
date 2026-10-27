@@ -1,0 +1,2425 @@
+{
+  "op": "add_object",
+  "scope": "global",
+  "name": "PackCowboy",
+  "type": "Sprite",
+  "content": {
+    "animations": [
+      {
+        "name": "Idle",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": true,
+            "timeBetweenFrames": 0.1,
+            "sprites": [
+              {
+                "image": "CIP_player_idle_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_idle_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_idle_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_idle_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_idle_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_idle_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_idle_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_idle_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Run",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": true,
+            "timeBetweenFrames": 0.08333333333333333,
+            "sprites": [
+              {
+                "image": "CIP_player_run_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_run_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_run_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_run_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_run_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_run_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_run_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_run_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Jump",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": false,
+            "timeBetweenFrames": 0.1,
+            "sprites": [
+              {
+                "image": "CIP_player_jump_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_jump_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_jump_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_jump_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_jump_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_jump_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_jump_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_jump_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Fall",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": true,
+            "timeBetweenFrames": 0.1,
+            "sprites": [
+              {
+                "image": "CIP_player_fall_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_fall_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_fall_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_fall_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_fall_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_fall_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_fall_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_fall_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Land",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": false,
+            "timeBetweenFrames": 0.1,
+            "sprites": [
+              {
+                "image": "CIP_player_land_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_land_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_land_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_land_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_land_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_land_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_land_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_land_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hurt",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": false,
+            "timeBetweenFrames": 0.1,
+            "sprites": [
+              {
+                "image": "CIP_player_hurt_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_hurt_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_hurt_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_hurt_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_hurt_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_hurt_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_hurt_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_hurt_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Shoot",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": false,
+            "timeBetweenFrames": 0.1,
+            "sprites": [
+              {
+                "image": "CIP_player_shoot_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_shoot_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_shoot_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_shoot_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_shoot_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_shoot_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_shoot_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_shoot_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Death",
+        "useMultipleDirections": false,
+        "directions": [
+          {
+            "looping": false,
+            "timeBetweenFrames": 0.1111111111111111,
+            "sprites": [
+              {
+                "image": "CIP_player_death_01",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_death_02",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_death_03",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_death_04",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_death_05",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_death_06",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_death_07",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              },
+              {
+                "image": "CIP_player_death_08",
+                "hasCustomCollisionMask": true,
+                "customCollisionMask": [
+                  [
+                    {
+                      "x": 45,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 32
+                    },
+                    {
+                      "x": 83,
+                      "y": 112
+                    },
+                    {
+                      "x": 45,
+                      "y": 112
+                    }
+                  ]
+                ],
+                "points": [],
+                "originPoint": {
+                  "name": "origine",
+                  "x": 0,
+                  "y": 0
+                },
+                "centerPoint": {
+                  "automatic": true,
+                  "name": "centre",
+                  "x": 0,
+                  "y": 0
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "adaptCollisionMaskAutomatically": false
+  },
+  "behaviors": [
+    {
+      "name": "Platformer",
+      "type": "PlatformBehavior::PlatformerObjectBehavior",
+      "gravity": 1400,
+      "jumpSpeed": 650,
+      "acceleration": 1600,
+      "deceleration": 1800,
+      "maxSpeed": 280,
+      "maxFallingSpeed": 900,
+      "canGrabPlatforms": false,
+      "ignoreDefaultControls": false
+    }
+  ]
+}

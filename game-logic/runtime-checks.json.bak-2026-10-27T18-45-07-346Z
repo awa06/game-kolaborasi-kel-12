@@ -1,0 +1,29 @@
+{
+  "passed": [
+    "ground collision",
+    "A/D movement and Run animation",
+    "native jump and airborne animation",
+    "raised platform collision",
+    "128-unit gap is crossable with native jump",
+    "coin pickup and score",
+    "shoot animation advances",
+    "bullets hit and kill enemy, consume ammunition",
+    "ammo pickup",
+    "contact damage, Hurt animation and invulnerability",
+    "checkpoint activation",
+    "Death animation advances",
+    "checkpoint respawn and life loss",
+    "health pickup",
+    "exit remains locked without key",
+    "key pickup",
+    "key opens treasure chest",
+    "win state and overlay",
+    "restart resets game state",
+    "three deaths produce game over",
+    "Escape returns to menu",
+    "Enter starts game from menu",
+    "mouse Play button starts game",
+    "no JavaScript runtime errors"
+  ],
+  "errors": []
+}
