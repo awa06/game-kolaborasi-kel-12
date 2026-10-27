@@ -435,6 +435,430 @@
         "name": "Teks paragraf Anda.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "Pixel Tropical Island Seascape.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Tropical Island Seascape.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel Hunter Animation Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Hunter Animation Sprite Sheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Eight-Frame Pixel Cowboy Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Eight-Frame Pixel Cowboy Sprite Sheet2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Eight-Frame Pixel Cowboy Sprite Sheet3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Eight-Frame Pixel Cowboy Sprite Sheet10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Eight-Frame Pixel Cowboy Sprite Sheet10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Cowboy Adventurer Jump Animation Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet6",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Cowboy Adventurer Jump Animation Sprite Sheet8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Cowboy Adventurer Jump Animation Sprite Sheet8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel Cowboy Running Cycle Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Cowboy Running Cycle Sprite Sheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "run.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "run.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel Cowboy Rifle Sprite Sheet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Cowboy Rifle Sprite Sheet.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Teks paragraf Anda (1).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Teks paragraf Anda (1).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "n1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "n1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "n3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "n3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "n4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "n4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "n5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "n5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "n6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "n6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "n7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "n7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "n8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "n8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "r8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "r8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Teks paragraf Anda (4).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Teks paragraf Anda (4).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Teks paragraf Anda (3).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Teks paragraf Anda (3).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Teks paragraf Anda (4)2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Teks paragraf Anda (4)2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pixel Laser Beam Animation Frames.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Laser Beam Animation Frames.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "Teks paragraf Anda (5).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Teks paragraf Anda (5).png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "a1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "a2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "a3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "a4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "a5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "a6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "a7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a7.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -1519,7 +1943,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4633111824513977,
+        "zoomFactor": 0.4057518905943828,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1531,14 +1955,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 765,
+          "height": 815,
           "keepRatio": true,
           "layer": "",
           "name": "background",
-          "persistentUuid": "e093d0be-3a23-4f05-b4d8-9bd32adef43e",
-          "width": 1353,
-          "x": -41,
-          "y": -28,
+          "persistentUuid": "7df4564e-7e9a-4ecf-91f2-ee99880b935a",
+          "width": 1448,
+          "x": -83,
+          "y": -54,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -1588,83 +2012,6 @@
         }
       ],
       "objects": [
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "background",
-          "persistentUuid": "35948712-61ad-4088-b69d-fa0d3fb4a2be",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Pixel Tropical Island Seascape3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 1672,
-                            "y": 0
-                          },
-                          {
-                            "x": 1672,
-                            "y": 941
-                          },
-                          {
-                            "x": 0,
-                            "y": 941
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "assetStoreId": "",
-          "name": "lantai",
-          "persistentUuid": "08581496-eadb-4e28-9901-4ab02cccc2c7",
-          "type": "TileMap::SimpleTileMap",
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "content": {
-            "atlasImage": "world_tileset2.png",
-            "rowCount": 16,
-            "columnCount": 16,
-            "tileSize": 16,
-            "tilesWithHitBox": "33,0,14,1,2,4,3,5,6,7,8,9,10,11,27,26,25,24,23,22,21,19,18,17,16,32,48,50,49,53,69,54,70,55,71,56,57,41,43,42,65,64,80,81,97,85,86,87,88,72,73,120,104,103,102,101,117,118,132,133,134,135,136"
-          }
-        },
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
@@ -1981,7 +2328,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "binatang_1",
+          "name": "tikus",
           "persistentUuid": "38bdd4a9-b24b-4a01-8dc1-1a5ea44b79db",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -2222,7 +2569,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "binatang2",
+          "name": "kodok",
           "persistentUuid": "ad0e96eb-1327-40b2-a1a3-8067f6b7c431",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -2976,11 +3323,1687 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "background",
+          "persistentUuid": "e28c088c-870c-459d-8ef8-173604da5c31",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Pixel Tropical Island Seascape.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1672,
+                            "y": 0
+                          },
+                          {
+                            "x": 1672,
+                            "y": 941
+                          },
+                          {
+                            "x": 0,
+                            "y": 941
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "lantai",
+          "persistentUuid": "e5c7d138-dfa8-4e7f-afd2-8ebf4d67aa57",
+          "type": "TileMap::SimpleTileMap",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "atlasImage": "world_tileset.png",
+            "rowCount": 16,
+            "columnCount": 16,
+            "tileSize": 16,
+            "tilesWithHitBox": "0,32,48,1,17,33,49,2,18,34,50,3,19,35,51,36,52,37,53,38,54,39,55,40,56,41,57,42,58,43,59,4,20,5,21,6,22,7,23,8,24,9,25,10,26,11,27,112,128,113,129,114,130,115,131,116,132,117,133,70,86,102,118,134,71,87,103,119,135,72,88,104,120,136,64,65,81,97,66,82,98,67,83,99,68,84,100,69,85,101,80,96"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "hunter",
+          "persistentUuid": "3c2cf90d-8c63-4b02-8de2-6153bd2ea4ab",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Eight-Frame Pixel Cowboy Sprite Sheet10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Cowboy Adventurer Jump Animation Sprite Sheet8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "shoot",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "n1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "n3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "n4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "n5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "n6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "n7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "n8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "r8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 331
+                          },
+                          {
+                            "x": 205,
+                            "y": 584
+                          },
+                          {
+                            "x": 49,
+                            "y": 584
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "psyarifa",
+          "persistentUuid": "f80f8dbc-9015-4685-8fbc-e95908eca4c4",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Teks paragraf Anda (3).png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 65,
+                            "y": 101
+                          },
+                          {
+                            "x": 1249,
+                            "y": 101
+                          },
+                          {
+                            "x": 1249,
+                            "y": 925
+                          },
+                          {
+                            "x": 65,
+                            "y": 925
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "pnazwa",
+          "persistentUuid": "8321554e-d8b5-4d34-97b5-ce123d70b5ff",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Teks paragraf Anda (4)2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 60,
+                            "y": 110
+                          },
+                          {
+                            "x": 1244,
+                            "y": 110
+                          },
+                          {
+                            "x": 1244,
+                            "y": 934
+                          },
+                          {
+                            "x": 60,
+                            "y": 934
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "laser",
+          "persistentUuid": "d45601de-33dc-4384-a4ca-0a8bf330dddd",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 129
+                          },
+                          {
+                            "x": 32,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 129
+                          },
+                          {
+                            "x": 32,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 129
+                          },
+                          {
+                            "x": 32,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 129
+                          },
+                          {
+                            "x": 32,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 129
+                          },
+                          {
+                            "x": 32,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 129
+                          },
+                          {
+                            "x": 32,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "a7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 32,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 48
+                          },
+                          {
+                            "x": 146,
+                            "y": 129
+                          },
+                          {
+                            "x": 32,
+                            "y": 129
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "objectName": "elang"
+          },
+          {
+            "objectName": "tikus"
+          },
+          {
+            "objectName": "laser"
+          },
+          {
+            "objectName": "psyarifa"
+          },
+          {
+            "objectName": "pnazwa"
+          },
+          {
+            "objectName": "kodok"
+          },
+          {
+            "objectName": "musang"
+          },
           {
             "objectName": "background"
           },
@@ -2988,16 +5011,7 @@
             "objectName": "lantai"
           },
           {
-            "objectName": "elang"
-          },
-          {
-            "objectName": "binatang_1"
-          },
-          {
-            "objectName": "binatang2"
-          },
-          {
-            "objectName": "musang"
+            "objectName": "hunter"
           }
         ]
       },
