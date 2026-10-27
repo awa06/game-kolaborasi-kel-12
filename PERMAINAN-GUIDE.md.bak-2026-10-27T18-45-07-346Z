@@ -1,0 +1,47 @@
+# Permainan: Island Frontier
+
+Open `Lawful Connection.json`, select `permainan`, and preview the scene. The opening menu also launches the game with its Play button or Enter.
+
+## Controls
+
+- Arrow keys or A/D: move.
+- Space or W: jump. Holding the jump key affects jump height through the Platformer behavior.
+- J or X: shoot. Hold to repeat; each shot consumes one ammo.
+- R: restart the entire level.
+- Escape: return to the opening menu.
+
+## Goal and rules
+
+Cross the four island sections, find the brass key on the upper platform in the last section, and reach the exit door at the far right. Coins are optional score bonuses. The key also opens the treasure chest. The game shows an on-screen win result instead of sending the player to the unfinished `winner` scene.
+
+The player starts with 3 health, 3 lives and 20 ammo. Crabs take 2 shots, damage the player on contact, and can be stomped from above. Damage gives 1.3 seconds of invulnerability. Falling into a gap costs one life. The red flag saves a checkpoint and restores health. With no lives left, a game-over overlay appears; R restarts. Ammo pickups give 8 rounds (maximum 40), hearts restore one health, coins give 10 score, defeated crabs give 50 score, the key gives 50, and the chest gives 100 plus 8 ammo.
+
+## Editing the level
+
+Objects are organized into Player, Terrain, Enemies, Pickups, Objectives, Effects, Scenery and Interface folders. Drag existing objects or duplicate instances to extend the level. The game automatically counts placed Coin instances.
+
+The level is 4096 x 720 world units. Its base camera follows the player horizontally; Background and HUD cameras stay fixed. Ground segments leave 128-unit gaps. Ledge heights are reachable using the configured jump speed.
+
+`Player` is a scene-local copy of PackCowboy. Its 8 animations are Idle, Run, Jump, Fall, Land, Hurt, Shoot and Death. Every frame uses a 128 x 128 canvas, the same origin, and the body mask (45,32)-(83,112). Preserve these dimensions and coordinates when changing art.
+
+Player physics use the native `Platformer` behavior. Adjust gravity, jump speed, maximum speed, acceleration and deceleration in the object's Behaviors tab. Ground and Ledge use the native Platform behavior. Crab patrol movement and gravity also use Platformer; its default controls are ignored.
+
+## Event sheet
+
+1. **Native Platformer controls:** A/D/W aliases, restart, and menu navigation. Arrow keys and Space are provided by Platformer itself.
+2. **Native Platformer animation conditions:** IsOnFloor, IsMoving, IsJumping and IsFalling choose locomotion animations. The AnimationOverride variable prevents these events from restarting short action animations.
+3. **Game rules:** One documented JavaScript event handles combat, patrol decisions, pickups, lives, checkpoint respawn, camera, and HUD. Open this event in GDevelop to edit it. A readable source snapshot is provided in `game-logic/permainan-gameplay.js`; editing that snapshot alone does not update the embedded event.
+
+The scene variables Health, Lives, Ammo, Coins, Score, HasKey, CheckpointActive, GameState and AnimationOverride expose the current game state to other events. The game-rule event owns these values and synchronizes them each frame; change its initialization/tuning values to alter the starting state.
+
+## Useful tuning values in the game-rule event
+
+- `health:3`, `lives:3`, `ammo:20`: starting inventory.
+- `maxSpeed:280`, `jumpSpeed:700`, `gravity:1400`, `jumpSustainTime:0.12`: Player behavior properties. Modern trajectory is enabled; automatic repeated jumps are disabled.
+- `hp:2`, patrol range `x - 90` to `x + 90`: crab durability and patrol limits.
+- Shot cooldown: 0.52 seconds. Bullet speed: 780 units/second.
+- `checkpointX:1720`, `checkpointY:480`: checkpoint respawn position; update if moving the flag.
+- Camera clamp: 640 to 3456; update for a different level width.
+- Player bounds: -35 to 4000; kill plane: y > 900.
+
+No audio was generated. The other scenes' artwork and the global asset library are preserved. Backups of the original project are saved beside its JSON file.

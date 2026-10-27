@@ -1,0 +1,660 @@
+{
+  "name": "Cowboy Island Pack v1",
+  "generatedWith": "Built-in image generation",
+  "player": {
+    "width": 128,
+    "height": 128,
+    "feetY": 112,
+    "collisionMask": [
+      {
+        "x": 45,
+        "y": 32
+      },
+      {
+        "x": 83,
+        "y": 32
+      },
+      {
+        "x": 83,
+        "y": 112
+      },
+      {
+        "x": 45,
+        "y": 112
+      }
+    ],
+    "animations": {
+      "Idle": {
+        "frames": [
+          "player/idle-01.png",
+          "player/idle-02.png",
+          "player/idle-03.png",
+          "player/idle-04.png",
+          "player/idle-05.png",
+          "player/idle-06.png",
+          "player/idle-07.png",
+          "player/idle-08.png"
+        ],
+        "fps": 10,
+        "loop": true
+      },
+      "Run": {
+        "frames": [
+          "player/run-01.png",
+          "player/run-02.png",
+          "player/run-03.png",
+          "player/run-04.png",
+          "player/run-05.png",
+          "player/run-06.png",
+          "player/run-07.png",
+          "player/run-08.png"
+        ],
+        "fps": 12,
+        "loop": true
+      },
+      "Jump": {
+        "frames": [
+          "player/jump-01.png",
+          "player/jump-02.png",
+          "player/jump-03.png",
+          "player/jump-04.png",
+          "player/jump-05.png",
+          "player/jump-06.png",
+          "player/jump-07.png",
+          "player/jump-08.png"
+        ],
+        "fps": 10,
+        "loop": false
+      },
+      "Fall": {
+        "frames": [
+          "player/fall-01.png",
+          "player/fall-02.png",
+          "player/fall-03.png",
+          "player/fall-04.png",
+          "player/fall-05.png",
+          "player/fall-06.png",
+          "player/fall-07.png",
+          "player/fall-08.png"
+        ],
+        "fps": 10,
+        "loop": true
+      },
+      "Land": {
+        "frames": [
+          "player/land-01.png",
+          "player/land-02.png",
+          "player/land-03.png",
+          "player/land-04.png",
+          "player/land-05.png",
+          "player/land-06.png",
+          "player/land-07.png",
+          "player/land-08.png"
+        ],
+        "fps": 10,
+        "loop": false
+      },
+      "Hurt": {
+        "frames": [
+          "player/hurt-01.png",
+          "player/hurt-02.png",
+          "player/hurt-03.png",
+          "player/hurt-04.png",
+          "player/hurt-05.png",
+          "player/hurt-06.png",
+          "player/hurt-07.png",
+          "player/hurt-08.png"
+        ],
+        "fps": 10,
+        "loop": false
+      },
+      "Shoot": {
+        "frames": [
+          "player/shoot-01.png",
+          "player/shoot-02.png",
+          "player/shoot-03.png",
+          "player/shoot-04.png",
+          "player/shoot-05.png",
+          "player/shoot-06.png",
+          "player/shoot-07.png",
+          "player/shoot-08.png"
+        ],
+        "fps": 10,
+        "loop": false
+      },
+      "Death": {
+        "frames": [
+          "player/death-01.png",
+          "player/death-02.png",
+          "player/death-03.png",
+          "player/death-04.png",
+          "player/death-05.png",
+          "player/death-06.png",
+          "player/death-07.png",
+          "player/death-08.png"
+        ],
+        "fps": 9,
+        "loop": false
+      }
+    }
+  },
+  "assets": [
+    {
+      "category": "terrain",
+      "name": "grass-left",
+      "file": "terrain/grass-left.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "grass-top",
+      "file": "terrain/grass-top.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "grass-right",
+      "file": "terrain/grass-right.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "dirt",
+      "file": "terrain/dirt.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "dirt-stone",
+      "file": "terrain/dirt-stone.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "rock-top",
+      "file": "terrain/rock-top.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "wood-top",
+      "file": "terrain/wood-top.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "sand",
+      "file": "terrain/sand.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "dirt-left",
+      "file": "terrain/dirt-left.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "dirt-right",
+      "file": "terrain/dirt-right.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "dirt-bottom",
+      "file": "terrain/dirt-bottom.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "cave-rock",
+      "file": "terrain/cave-rock.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "moss-stone",
+      "file": "terrain/moss-stone.png",
+      "width": 64,
+      "height": 64,
+      "terrain": true
+    },
+    {
+      "category": "terrain",
+      "name": "crate",
+      "file": "terrain/crate.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "terrain",
+      "name": "barrel",
+      "file": "terrain/barrel.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "terrain",
+      "name": "bridge",
+      "file": "terrain/bridge.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "palm",
+      "file": "props/palm.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "bush",
+      "file": "props/bush.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "grass",
+      "file": "props/grass.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "rock",
+      "file": "props/rock.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "cactus",
+      "file": "props/cactus.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "sign-right",
+      "file": "props/sign-right.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "checkpoint",
+      "file": "props/checkpoint.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "props",
+      "name": "exit-door",
+      "file": "props/exit-door.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "coin",
+      "file": "pickups/coin.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "heart",
+      "file": "pickups/heart.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "ammo",
+      "file": "pickups/ammo.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "key",
+      "file": "pickups/key.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "chest-closed",
+      "file": "pickups/chest-closed.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "chest-open",
+      "file": "pickups/chest-open.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "gem-red",
+      "file": "pickups/gem-red.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "pickups",
+      "name": "gem-blue",
+      "file": "pickups/gem-blue.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-1",
+      "file": "enemies/crab-walk-1.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-2",
+      "file": "enemies/crab-walk-2.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-3",
+      "file": "enemies/crab-walk-3.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-4",
+      "file": "enemies/crab-walk-4.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-5",
+      "file": "enemies/crab-walk-5.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-6",
+      "file": "enemies/crab-walk-6.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-7",
+      "file": "enemies/crab-walk-7.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "enemies",
+      "name": "crab-walk-8",
+      "file": "enemies/crab-walk-8.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "bullet",
+      "file": "effects/bullet.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "muzzle-small",
+      "file": "effects/muzzle-small.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "muzzle-large",
+      "file": "effects/muzzle-large.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "dust",
+      "file": "effects/dust.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "hit-spark",
+      "file": "effects/hit-spark.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "impact",
+      "file": "effects/impact.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "explosion-small",
+      "file": "effects/explosion-small.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "effects",
+      "name": "explosion-large",
+      "file": "effects/explosion-large.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "heart-full",
+      "file": "ui/heart-full.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "heart-empty",
+      "file": "ui/heart-empty.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "ammo",
+      "file": "ui/ammo.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "coin",
+      "file": "ui/coin.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "play",
+      "file": "ui/play.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "pause",
+      "file": "ui/pause.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "retry",
+      "file": "ui/retry.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "ui",
+      "name": "sound",
+      "file": "ui/sound.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "vine",
+      "file": "decor/vine.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "fern",
+      "file": "decor/fern.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "flower",
+      "file": "decor/flower.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "lantern",
+      "file": "decor/lantern.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "fence-post",
+      "file": "decor/fence-post.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "skull",
+      "file": "decor/skull.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "wreck-plank",
+      "file": "decor/wreck-plank.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    },
+    {
+      "category": "decor",
+      "name": "bird",
+      "file": "decor/bird.png",
+      "width": 128,
+      "height": 128,
+      "terrain": false
+    }
+  ],
+  "background": {
+    "file": "background/island-day.png",
+    "width": 1672,
+    "height": 941
+  }
+}

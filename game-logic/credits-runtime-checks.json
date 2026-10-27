@@ -1,0 +1,27 @@
+{
+  "passed": [
+    "menu credits icon enabled",
+    "all three portraits, names, roles and exact NIMs",
+    "menu credits close correctly",
+    "locked chest does not trigger easter egg",
+    "chest opens, rewards once and pauses gameplay",
+    "dialog shows the opened chest",
+    "help shortcut does not interrupt chest reveal",
+    "chest reveal automatically advances to developer credits",
+    "reading credits freezes movement, timers and shooting",
+    "continue resumes without duplicating chest rewards",
+    "opened chest does not reopen the dialog",
+    "credit artwork hides after closing",
+    "pause-menu credits icon works",
+    "pause credits return to paused menu",
+    "four-icon pause menu still resumes correctly",
+    "winner credits icon works",
+    "Escape closes result-screen credits",
+    "replay resets the chest easter egg",
+    "game-over credits icon works",
+    "continue can advance chest reveal early",
+    "Escape resumes after chest credits",
+    "no JavaScript runtime errors"
+  ],
+  "errors": []
+}
