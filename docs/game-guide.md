@@ -1,6 +1,6 @@
 # Animal Hunter
 
-Open `Lawful Connection.json`. The opening screen is the default start scene; click the large play icon or press Enter to start.
+Open `Animal Hunter.json`. The opening screen is the default start scene; click the large play icon or press Enter to start.
 
 ## Screens and icon controls
 
@@ -30,11 +30,11 @@ Player and crab gravity/movement use native Platformer behaviors; terrain uses P
 
 ## Event organization
 
-Gameplay has an `00 - Icon HUD, pause, continue, replay and home` group before the native movement, animation and game-rule groups. The UI group uses `animal-hunter-screen-ui.js`; pause changes the scene time scale and the game-rule event skips processing while a modal is open.
+Gameplay has an `00 - Icon HUD, pause, continue, replay and home` group before the native movement, animation and game-rule groups. The UI group uses `src/events/ui.js`; pause changes the scene time scale and the game-rule event skips processing while a modal is open.
 
 The three menu/result scenes use the same UI controller. Finishing a run stores AHLastScore, AHLastCoins, AHLastTotalCoins, AHLastLives and AHLastAmmo in project variables before changing scenes. These values supply the result screens.
 
-Readable source snapshots are in `game-logic/animal-hunter-screen-ui.js` and `game-logic/permainan-gameplay.js`. Edit the JavaScript event inside GDevelop to change the game; editing a snapshot alone does not update the embedded event.
+Readable source snapshots are in `src/events/ui.js` and `src/events/gameplay.js`. Edit the JavaScript event inside GDevelop to change the game; editing a snapshot alone does not update the embedded event.
 
 ## Developer credits and chest easter egg
 
@@ -54,11 +54,15 @@ The scroll/quill credits icon is enabled on the opening screen, winner screen, g
 
 Portrait PNGs are in `assets/developer-portraits-v1`, with matching global objects in the Developer Portraits folder. Each scene has Interface > Developer Credits and Interface > Chest Reveal folders. Names, roles and NIMs are editable text objects in those folders.
 
-The UI event controls the reveal timing and credit cards. `treasureShownAt` uses wall-clock time so the reveal can advance while game time is paused. The game-rule event opens the dialog only when a keyed chest is first opened. Sources are snapshotted in `game-logic/animal-hunter-screen-ui.js` and `game-logic/permainan-gameplay.js`; edit embedded events in GDevelop to change runtime behavior.
+The UI event controls the reveal timing and credit cards. `treasureShownAt` uses wall-clock time so the reveal can advance while game time is paused. The game-rule event opens the dialog only when a keyed chest is first opened. Sources are snapshotted in `src/events/ui.js` and `src/events/gameplay.js`; edit embedded events in GDevelop to change runtime behavior.
 
 
 ## Assets
 
 The title and new home, exit, credits, trophy, game-over, key, score and help assets are in `assets/animal-hunter-ui-v1`. Existing play, pause and replay images are reused from `assets/cowboy-island-pack-v1`. New UI assets are grouped under Global Objects > Animal Hunter UI.
 
-The new assets were generated with the built-in image tool, then cropped and normalized for import. Generation prompts are in `assets/animal-hunter-ui-v1/PROMPTS.md`. No audio was added. Project backups are saved beside `Lawful Connection.json` before replacing it.
+The new assets were generated with the built-in image tool, then cropped and normalized for import. Generation prompts are in `assets/animal-hunter-ui-v1/PROMPTS.md`. No audio was added. Project backups are saved beside `Animal Hunter.json` before replacing it.
+
+## Repository event synchronization
+
+After saving JavaScript changes in GDevelop, run `npm run events:pull` from the repository root. After editing the files in `src/events/`, close GDevelop, run `npm run events:push` and `npm run check`, then reopen `Animal Hunter.json`. The [root README](../README.md) describes both workflows. Local backups and old prepared projects are preserved in the ignored `.local/` directory.

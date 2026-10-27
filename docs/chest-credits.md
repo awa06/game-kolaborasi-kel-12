@@ -16,4 +16,4 @@ The scroll/quill credits icon is enabled on the opening screen, winner screen, g
 
 Portrait PNGs are in `assets/developer-portraits-v1`, with matching global objects in the Developer Portraits folder. Each scene has Interface > Developer Credits and Interface > Chest Reveal folders. Names, roles and NIMs are editable text objects in those folders.
 
-The UI event controls the reveal timing and credit cards. `treasureShownAt` uses wall-clock time so the reveal can advance while game time is paused. The game-rule event opens the dialog only when a keyed chest is first opened. Sources are snapshotted in `game-logic/animal-hunter-screen-ui.js` and `game-logic/permainan-gameplay.js`; edit embedded events in GDevelop to change runtime behavior.
+The UI event controls the reveal timing and credit cards. `treasureShownAt` uses wall-clock time so the reveal can advance while game time is paused. The game-rule event opens the dialog only when a keyed chest is first opened. Sources are snapshotted in `src/events/ui.js` and `src/events/gameplay.js`; edit embedded events in GDevelop to change runtime behavior.

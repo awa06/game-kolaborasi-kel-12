@@ -1,0 +1,13 @@
+{
+  "name": "animal-hunter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Animal Hunter GDevelop game and dependency-free repository tools",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "check": "node scripts/check-project.mjs",
+    "events:pull": "node scripts/sync-events.mjs pull",
+    "events:push": "node scripts/sync-events.mjs push"
+  }
+}
